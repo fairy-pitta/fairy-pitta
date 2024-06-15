@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 
 ## Most Used Lauguages 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=fairy-pitta&show_icons=true&locale=en&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fairy-pitta&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fairy-pitta&theme=default)
 
