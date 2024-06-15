@@ -16,5 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=fairy-pitta)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=fairy-pitta&show_icons=true&locale=en&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairy-pitta&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fairy-pitta&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fairy-pitta&theme=default)
+
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fairy-pitta&theme=default)
