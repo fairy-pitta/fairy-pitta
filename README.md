@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Skills 
 
-![](https://skillicons.dev/icons?i=html,css,python,php, sql, r)
+![](https://skillicons.dev/icons?i=html,css,python,php,sql,r)
 
 ## Commitment
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fairy-pitta&theme=default)
