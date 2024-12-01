@@ -4,11 +4,6 @@ My name is Pitta, an explorer in progress!
 
 Fairy Pitta (Pitta nympha) is a small passerine bird in the family Pittidae. 
 
-I'm interested in the database architecture!\
-I'm currently learning sql.
-
-You can find my [Qitta](https://qiita.com/Pitta) , I post my competitive programming stuff from time to time along with my daily struggles (in Japanese though).
-
 <!--
 **fairy-pitta/fairy-pitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
