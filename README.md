@@ -3,7 +3,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,sqlite,github,vscode,discord,php,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,pyton, r, typescript,react,next,sqlite,github,vscode,discord,php,aws,vite" /> <br /><br />
 
   
 # NOW TRAINING
