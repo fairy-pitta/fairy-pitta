@@ -1,9 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=fairy-pitta&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Programming Languages 
+<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,r" /> <br /><br />
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# Frameworks 
+<img src="https://skillicons.dev/icons?i=react,next,django" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,typescript,react,next,sqlite,github,vscode,discord,php,aws,vite" /> <br /><br />
+# Tools 
+<img src="https://skillicons.dev/icons?i=supabase,sqlite,github,vscode,discord,php,aws,vite" /> <br /><br />
 
   
 # NOW TRAINING
