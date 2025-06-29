@@ -20,7 +20,7 @@
 
 # Links 
 
-[Website](https://singbirds.net)
-[AtCoder](https://atcoder.jp/users/Pitta)
-[npm](https://www.npmjs.com/settings/fairy-pitta/packages)
+[Website](https://singbirds.net)\\
+[AtCoder](https://atcoder.jp/users/Pitta)\\
+[npm](https://www.npmjs.com/settings/fairy-pitta/packages)\\
 [Qiita](https://qiita.com/Pitta)
