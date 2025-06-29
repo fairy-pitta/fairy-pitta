@@ -18,18 +18,8 @@
 <img src="https://skillicons.dev/icons?i=docker,vue,php" /> <br /><br />
 
 
-## Links
-<p>
-  <a href="https://singbirds.net">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="32" alt="Website"/>
-  </a>
-  <a href="https://atcoder.jp/users/Pitta">
-    <img src="https://skillicons.dev/icons?i=code" height="32" alt="AtCoder"/>
-  </a>
-  <a href="https://www.npmjs.com/settings/fairy-pitta/packages">
-    <img src="https://skillicons.dev/icons?i=npm" height="32" alt="npm"/>
-  </a>
-  <a href="https://qiita.com/Pitta">
-    <img src="https://skillicons.dev/icons?i=markdown" height="32" alt="Qiita"/>
-  </a>
-</p>
+## 🔗 Links
+[![Website](https://img.shields.io/badge/Website-singbirds.net-0A0?style=for-the-badge&logo=google-chrome)](https://singbirds.net)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Pitta-00aaff?style=for-the-badge)](https://atcoder.jp/users/Pitta)
+[![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/fairy-pitta/packages)
+[![Qiita](https://img.shields.io/badge/Qiita-Profile-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Pitta)
