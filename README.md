@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=fairy-pitta&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
 # Programming Languages 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,r" /> <br /><br />
 
@@ -19,3 +17,10 @@
 
 <img src="https://skillicons.dev/icons?i=docker,vue,php" /> <br /><br />
 
+
+# Links 
+
+[Website](https://singbirds.net)
+[AtCoder](https://atcoder.jp/users/Pitta)
+[npm](https://www.npmjs.com/settings/fairy-pitta/packages)
+[Qiita](https://qiita.com/Pitta)
