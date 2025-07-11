@@ -15,7 +15,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=docker,vue,php" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,vue,java" /> <br /><br />
 
 
 # Links
