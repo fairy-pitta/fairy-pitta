@@ -19,7 +19,8 @@
 
 
 # Links
-[![Website](https://img.shields.io/badge/website-white)](https://fairy-pitta.net)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Pitta-00aaff?style=for-the-badge)](https://atcoder.jp/users/Pitta)
+
+[![Website](https://img.shields.io/badge/Website-fairy--pitta.net-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://fairy-pitta.net)
+[![AtCoder](https://img.shields.io/badge/AtCoder-Pitta-00aaff?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Pitta)
 [![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/fairy-pitta/packages)
 [![Qiita](https://img.shields.io/badge/Qiita-Profile-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Pitta)
