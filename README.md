@@ -1,26 +1,21 @@
-# Programming Languages 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,typescript,r" /> <br /><br />
+# Shuna Maekawa
 
-# Frameworks 
-<img src="https://skillicons.dev/icons?i=react,next,django" /> <br /><br />
+Software engineer and project manager in Singapore.
 
-# Platforms 
+I design and build LLM features that have to work for real users, and the
+AWS systems around them. On my current client work I also meet the client,
+turn their requirements into features, and lead the engineers who build them.
 
-<img src="https://skillicons.dev/icons?i=supabase,aws,cloudflare,github,vercel" /> <br /><br />
+**Stack:** Python, Django, TypeScript, React, PostgreSQL, AWS, Cloudflare
 
-# Tools 
-<img src="https://skillicons.dev/icons?i=sqlite,tailwind,vite,latex,nginx" /> <br /><br />
+**Certifications:** AWS Solutions Architect – Professional,
+AWS Generative AI Developer – Professional
 
+### Projects
 
-  
-# NOW TRAINING
+- [portree](https://github.com/fairy-pitta/portree) — run a dev server per git worktree with automatic ports and subdomains (Go, Homebrew)
+- [cc-account-switcher](https://github.com/fairy-pitta/cc-account-switcher) — switch between multiple Claude Code accounts
+- [SG Bird Observation Map](https://sgbirdsmap.fairy-pitta.net) — 23 years of eBird records for Singapore on Cloudflare D1, refreshed daily
+- [Printable Spectrogram](https://github.com/fairy-pitta/printable_spectrogram) — publication-quality spectrograms, entirely in the browser
 
-<img src="https://skillicons.dev/icons?i=docker,vue,java" /> <br /><br />
-
-
-# Links
-
-[![Website](https://img.shields.io/badge/Website-fairy--pitta.net-0076D6?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://fairy-pitta.net)
-[![AtCoder](https://img.shields.io/badge/AtCoder-Pitta-00aaff?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Pitta)
-[![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/fairy-pitta/packages)
-[![Qiita](https://img.shields.io/badge/Qiita-Profile-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Pitta)
+More at [fairy-pitta.net](https://fairy-pitta.net).
